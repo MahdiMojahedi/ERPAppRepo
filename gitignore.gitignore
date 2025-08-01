@@ -1,0 +1,41 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio files
+.vs/
+.vscode/
+
+## Other
+_ReSharper*/
+*.log
+*.vsidx
+*.dbmdl
+*.pdb
+*.cache
+*.zip
+*.nupkg
+
+## Windows image thumbnail cache
+Thumbs.db
+
+## Others you may want to ignore
+*.db
+*.bak
+*.tmp

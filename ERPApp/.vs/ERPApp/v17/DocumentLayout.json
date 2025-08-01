@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ERP\\ERPApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ERP\\Persistance\\Migrations\\20250801212420_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201BFDDF-9316-BB25-53AF-CAFE9ADC57F0}|..\\IDP\\IDP.csproj|c:\\erp\\idp\\data\\idpdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201BFDDF-9316-BB25-53AF-CAFE9ADC57F0}|..\\IDP\\IDP.csproj|c:\\erp\\idp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201BFDDF-9316-BB25-53AF-CAFE9ADC57F0}|..\\IDP\\IDP.csproj|c:\\erp\\idp\\data\\idpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675B2A-9EAC-666F-1429-E4A6A85D0172}|..\\Persistance\\Persistance.csproj|c:\\erp\\persistance\\migrations\\20250705112407_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08675B2A-9EAC-666F-1429-E4A6A85D0172}|..\\Persistance\\Persistance.csproj|c:\\erp\\persistance\\migrations\\databasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201BFDDF-9316-BB25-53AF-CAFE9ADC57F0}|..\\IDP\\IDP.csproj|c:\\erp\\idp\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ERP\\IDP\\Migrations\\20250801211653_Initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250801212420_Initialize.cs",
+              "DocumentMoniker": "C:\\ERP\\Persistance\\Migrations\\20250801212420_Initialize.cs",
+              "RelativeDocumentMoniker": "..\\Persistance\\Migrations\\20250801212420_Initialize.cs",
+              "ToolTip": "C:\\ERP\\Persistance\\Migrations\\20250801212420_Initialize.cs",
+              "RelativeToolTip": "..\\Persistance\\Migrations\\20250801212420_Initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:24:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ERP\\IDP\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\IDP\\appsettings.json",
+              "ToolTip": "C:\\ERP\\IDP\\appsettings.json",
+              "RelativeToolTip": "..\\IDP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T21:20:10.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDPDbContextFactory .cs",
+              "DocumentMoniker": "C:\\ERP\\IDP\\Data\\IDPDbContextFactory .cs",
+              "RelativeDocumentMoniker": "..\\IDP\\Data\\IDPDbContextFactory .cs",
+              "ToolTip": "C:\\ERP\\IDP\\Data\\IDPDbContextFactory .cs",
+              "RelativeToolTip": "..\\IDP\\Data\\IDPDbContextFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:20:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDPDbContext.cs",
+              "DocumentMoniker": "C:\\ERP\\IDP\\Data\\IDPDbContext.cs",
+              "RelativeDocumentMoniker": "..\\IDP\\Data\\IDPDbContext.cs",
+              "ToolTip": "C:\\ERP\\IDP\\Data\\IDPDbContext.cs",
+              "RelativeToolTip": "..\\IDP\\Data\\IDPDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:19:50.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250705112407_Init.cs",
+              "DocumentMoniker": "C:\\ERP\\Persistance\\Migrations\\20250705112407_Init.cs",
+              "RelativeDocumentMoniker": "..\\Persistance\\Migrations\\20250705112407_Init.cs",
+              "ToolTip": "C:\\ERP\\Persistance\\Migrations\\20250705112407_Init.cs",
+              "RelativeToolTip": "..\\Persistance\\Migrations\\20250705112407_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:19:35.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\ERP\\Persistance\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\Persistance\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\ERP\\Persistance\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\Persistance\\Migrations\\DataBaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:19:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "C:\\ERP\\IDP\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "..\\IDP\\Data\\IdentitySeed.cs",
+              "ToolTip": "C:\\ERP\\IDP\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "..\\IDP\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:17:00.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250801211653_Initialize.cs",
+              "DocumentMoniker": "C:\\ERP\\IDP\\Migrations\\20250801211653_Initialize.cs",
+              "RelativeDocumentMoniker": "..\\IDP\\Migrations\\20250801211653_Initialize.cs",
+              "ToolTip": "C:\\ERP\\IDP\\Migrations\\20250801211653_Initialize.cs",
+              "RelativeToolTip": "..\\IDP\\Migrations\\20250801211653_Initialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:16:54.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

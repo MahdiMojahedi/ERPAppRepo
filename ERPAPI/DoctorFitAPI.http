@@ -1,0 +1,6 @@
+@DoctorFitAPI_HostAddress = http://localhost:5073
+
+GET {{DoctorFitAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
